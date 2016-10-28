@@ -1,6 +1,6 @@
 <?php
 
-namespace TaylorNetwork\Presenter\Trait;
+namespace TaylorNetwork\Presenter\Traits;
 
 
 use TaylorNetwork\Presenter\Exceptions\PresenterException;
