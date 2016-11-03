@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use TaylorNetwork\Presenter\Presenter;
+
+class DummyClass extends Presenter
+{
+    //
+}
