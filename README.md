@@ -19,7 +19,7 @@ Add the service provider to the providers array in `config/app.php`
 ``` php
 'providers' => [
 
-    TaylorNetwork\Presenter\PresenerServiceProvider::class,
+    TaylorNetwork\Presenter\PresenterServiceProvider::class,
 
 ],
 ```
